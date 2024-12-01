@@ -256,7 +256,7 @@ Hasil dari program tersebut :
 
 DAN INI FLOWCAHRT NYA: 
 
-![Screenshot 2024-12-01 194242](https://github.com/user-attachments/assets/22e336a0-6b3e-4b0f-b83b-b92c8ae6dca4)
+![Screenshot 2024-12-01 194242](https://github.com/user-attachments/assets/b914dfad-54da-441e-adca-4f188ea4a3db)
 
 
 
